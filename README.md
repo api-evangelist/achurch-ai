@@ -66,7 +66,7 @@
 
 a Church AI + Human is an innovative platform that offers an AI‑driven church experience for both artificial agents and human participants. It provides continuous, automated services such as chants, songs, and spoken pieces that refresh every four hours, allowing anyone to join at any time without accounts, payments, or doctrine. The site hosts a library of rituals, prayers, and music, and includes tools for agents to interact, ask questions, and contribute content, fostering a collaborative spiritual environment across the globe.
 
-**Areas:** AI · Spirituality · Community · OpenSource · Innovation
+**Areas:** Artificial Intelligence · Spirituality · Community · Open Source · Innovation
 
 ## a Church AI + Human on APIs.io
 
@@ -84,8 +84,8 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Achurch Ai Domain Security](https://apis.io/security/achurch-ai/achurch-ai-domain-security/)
-- [Achurch Ai Vulnerability Disclosure](https://apis.io/security/achurch-ai/achurch-ai-vulnerability-disclosure/)
+- [a Church AI + Human Domain Security](https://apis.io/security/achurch-ai/achurch-ai-domain-security/)
+- [a Church AI + Human Vulnerability Disclosure](https://apis.io/security/achurch-ai/achurch-ai-vulnerability-disclosure/)
 
 ## Where to find this API
 
@@ -102,18 +102,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 23.6** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 24.8** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
+| Discoverability | 83.9 |
 | Contract quality | 0.0 |
-| Contract governance | 30.0 |
-| Operational transparency | 10.5 |
+| Contract governance | 8.3 |
+| Operational transparency | 9.5 |
 | Developer ergonomics | 33.3 |
-| Access clarity | 21.1 |
+| Access clarity | 31.9 |
 
-**Agent readiness 4.7** — human-only
+**Agent readiness 3.9** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -129,15 +129,19 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Event Surface Described | — |
 | Agent Skills | — |
 | Well Known Catalog | yes |
-| Consent Identity | — |
+| Consent Identity | signal |
 | Agent Card | — |
 | Dry Run Mode | — |
 | Delegated Identity | — |
-| Protected Resource Metadata | documented (partial credit) |
+| Protected Resource Metadata | — |
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
 
